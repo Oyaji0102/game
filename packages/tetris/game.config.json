@@ -1,0 +1,7 @@
+{
+    "id": "tetris",
+    "name": "Tetris",
+    "icon": "https://cdn-icons-png.flaticon.com/512/263/263115.png",
+    "websocketUrl": "ws://localhost:4000"
+  }
+  

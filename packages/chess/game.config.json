@@ -1,0 +1,7 @@
+{
+    "id": "chess",
+    "name": "Satranç",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1997/1997933.png",
+    "websocketUrl": "ws://localhost:4000"
+  }
+  
