@@ -1,30 +1,21 @@
 [
-  {
-    "id": "chess",
-    "name": "Satranç",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1997/1997933.png",
-    "websocketUrl": "ws://localhost:4000",
-    "description": "Zihinsel strateji oyunu. Rakibini mat etmeye çalış.",
-    "howToPlay": "Her oyuncu sırayla taşlarını oynar. Amaç şahı mat etmektir.",
-    "settings": "Zaman limiti, oyuncu sayısı gibi ayarlar yapılabilir.",
-    "history": "Bu oyun dünya çapında yıllardır oynanıyor."
-  },
-  {
-    "id": "tetris",
-    "name": "Tetris",
-    "icon": "https://cdn-icons-png.flaticon.com/512/263/263115.png",
-    "websocketUrl": "ws://localhost:4000",
-    "description": "Blokları düzgün şekilde yerleştirerek satırları yok et.",
-    "howToPlay": "Yukarıdan düşen blokları döndürerek boşlukları doldur.",
-    "settings": "Başlangıç hızı ve müzik ayarlanabilir.",
-    "history": "1980'lerde popüler olmuş bir bulmaca oyunudur."
-  },
+{
+  "id": "tombala",
+  "name": "Tombala",
+  "icon": "https://img.icons8.com/?size=100&id=Nn0ReDyNCcSA&format=png&color=000000",
+  "websocketUrl": "ws://localhost:5000",
+  "description": "Rastgele çekilen sayılarla kartını doldur, çinko ya da tombala yap!",
+  "howToPlay": "Her oyuncuya 15 sayılık bir kart verilir. 1–90 arası sayılar torbadan çekilir. Kartındaki tüm sayılar çıkınca 'Tombala' de!",
+  "settings": "Kart sayısı, çekiliş hızı gibi ayarlar yapılabilir.",
+  "history": "Türk kültürünün geleneksel yılbaşı oyunlarından biridir."
+},
+
   {
     "id": "minesweeper",
     "name": "Mayın Tarlası",
-    "icon": "https://cdn-icons-png.flaticon.com/512/3039/3039436.png",
+    "icon": "https://img.icons8.com/?size=100&id=K56ywR2mLeSn&format=png&color=000000",
     "websocketUrl": "ws://localhost:4000",
-    "description": "Mayınlara basmadan tüm boş kareleri açmaya çalış.",
+    "description": "Mayınlara basmadan tüm boş kareleri açmaya çalış.(ŞİMDİLİK tek kişliktir)",
     "howToPlay": "Karelere tıklayarak mayınları bul. Sayılar sana ipucu verir.",
     "settings": "Zorluk seviyesi, alan boyutu gibi ayarlar yapılabilir.",
     "history": "Windows ile meşhur olmuş klasik bir oyundur."
